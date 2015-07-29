@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-setup.py - script for building padcalc
+setup.py - script for building padulator
 
 Usage:
     % python setup.py py2app
@@ -20,7 +20,7 @@ py2app_options = {
         }
 
 setup(
-    app=['padcalc.py'],
+    app=['padulator.py'],
     name=NAME,
     options={'py2app':py2app_options},
     data_files = ['./orbs','qt.conf'],

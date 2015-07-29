@@ -8,4 +8,4 @@ Requires:
   - CacheControl
   - numpy
   
-Usage: ```python3 padcalc.py``` or use the app binary (Mac only).
+Usage: ```python3 padulator.py``` or use the app binary (Mac only).
